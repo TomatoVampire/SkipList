@@ -47,6 +47,7 @@ namespace SkipListUWP
                     MessageB.Commands.Add(new UICommand("OK"));
                     await MessageB.ShowAsync();
                     MainPage.mainpage.OutputText.Text = App.skiplist.display();
+                    searchBox.Text = "";
                 }
 
             }

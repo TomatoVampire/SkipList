@@ -1,0 +1,2 @@
+MainPackage=E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\ARM\Debug\SkipListUWP_1.0.0.0_ARM_Debug.msix
+SymbolPackage=E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\ARM\Debug\Symbols\SkipListUWP_1.0.0.0_ARM_Debug.appxsym

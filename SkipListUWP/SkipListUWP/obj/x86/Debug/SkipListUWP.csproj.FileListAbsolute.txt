@@ -72,3 +72,4 @@ E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x86\Debug\InterfacePages\E
 E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x86\Debug\InterfacePages\EmptyPage.g.cs
 E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x86\Debug\InterfacePages\EmptyPage.xaml
 E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x86\Debug\InterfacePages\EmptyPage.xbf
+E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\Core\ForBundle\AppxManifest.xml

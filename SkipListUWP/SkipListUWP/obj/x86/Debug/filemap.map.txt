@@ -1,0 +1,20 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x86\Debug\filemap.pri"			"resources.pri"
+"E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x86\Debug\PackageLayout\System.Runtime.dll"			"System.Runtime.dll"
+"E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x86\Debug\PackageLayout\SkipListUWP.xr.xml"			"SkipListUWP.xr.xml"
+"E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x86\Debug\PackageLayout\SkipListUWP.exe"			"SkipListUWP.exe"
+"E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x86\Debug\PackageLayout\Microsoft.UI.Xaml.Markup.winmd"			"Microsoft.UI.Xaml.Markup.winmd"
+"E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x86\Debug\PackageLayout\WinMetadata\Windows.winmd"			"WinMetadata\Windows.winmd"
+"E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x86\Debug\PackageLayout\Properties\Default.rd.xml"			"Properties\Default.rd.xml"
+"E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x86\Debug\PackageLayout\entrypoint\SkipListUWP.exe"			"entrypoint\SkipListUWP.exe"
+"E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x86\Debug\PackageLayout\Assets\Wide310x150Logo.scale-200.png"			"Assets\Wide310x150Logo.scale-200.png"
+"E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x86\Debug\PackageLayout\Assets\StoreLogo.png"			"Assets\StoreLogo.png"
+"E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x86\Debug\PackageLayout\Assets\Square44x44Logo.targetsize-24_altform-unplated.png"			"Assets\Square44x44Logo.targetsize-24_altform-unplated.png"
+"E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x86\Debug\PackageLayout\Assets\Square44x44Logo.scale-200.png"			"Assets\Square44x44Logo.scale-200.png"
+"E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x86\Debug\PackageLayout\Assets\Square150x150Logo.scale-200.png"			"Assets\Square150x150Logo.scale-200.png"
+"E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x86\Debug\PackageLayout\Assets\SplashScreen.scale-200.png"			"Assets\SplashScreen.scale-200.png"
+"E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x86\Debug\PackageLayout\Assets\LockScreenLogo.scale-200.png"			"Assets\LockScreenLogo.scale-200.png"
