@@ -180,11 +180,21 @@ namespace SkipListControl
         {
             string s = "";
             Node sss = Ss.Head;
-            s += sss.data.ToString() + ": ";
+            s += "  L: ";//"00: "
             sss = sss.forward[0];
             while (sss != null)
             {
-                s += sss.data.ToString() + " ->";
+                s += sss.level.ToString("00") + "     ";//"00 ->"
+                sss = sss.forward[0];
+            }
+            s += "     \n";
+
+            sss = Ss.Head;
+            s += sss.data.ToString("00") + ": ";
+            sss = sss.forward[0];
+            while (sss != null)
+            {
+                s += sss.data.ToString("00") + " ->";
                 sss = sss.forward[0];
             }
             s += " NULL";

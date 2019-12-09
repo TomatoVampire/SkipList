@@ -30,13 +30,13 @@
     <AppXManifest Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-12-02T11:08:54.092</Modified>
+      <Modified>2019-12-09T12:09:08.752</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\SkipListUWP.exe">
       <PackagePath>entrypoint\SkipListUWP.exe</PackagePath>
-      <Modified>2019-12-02T11:08:53.456</Modified>
+      <Modified>2019-12-09T12:09:08.423</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.9\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -90,35 +90,35 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-12-02T10:52:03.635</Modified>
+      <Modified>2019-12-09T12:03:46.656</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\InterfacePages\CreatePage.xbf">
       <PackagePath>InterfacePages\CreatePage.xbf</PackagePath>
-      <Modified>2019-12-02T10:52:03.635</Modified>
+      <Modified>2019-12-09T12:03:46.657</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\InterfacePages\DeletePage.xbf">
       <PackagePath>InterfacePages\DeletePage.xbf</PackagePath>
-      <Modified>2019-12-02T10:52:03.635</Modified>
+      <Modified>2019-12-09T12:03:46.657</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\InterfacePages\EmptyPage.xbf">
       <PackagePath>InterfacePages\EmptyPage.xbf</PackagePath>
-      <Modified>2019-12-02T10:52:03.636</Modified>
+      <Modified>2019-12-09T12:03:46.657</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\InterfacePages\InsertPage.xbf">
       <PackagePath>InterfacePages\InsertPage.xbf</PackagePath>
-      <Modified>2019-12-02T10:52:03.636</Modified>
+      <Modified>2019-12-09T12:03:46.657</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-12-02T10:52:03.636</Modified>
+      <Modified>2019-12-09T12:03:46.657</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\InterfacePages\SearchPage.xbf">
       <PackagePath>InterfacePages\SearchPage.xbf</PackagePath>
-      <Modified>2019-12-02T10:52:03.636</Modified>
+      <Modified>2019-12-09T12:03:46.657</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\InterfacePages\WelcomePage.xbf">
       <PackagePath>InterfacePages\WelcomePage.xbf</PackagePath>
-      <Modified>2019-12-02T10:52:03.636</Modified>
+      <Modified>2019-12-09T12:03:46.657</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -130,7 +130,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\Core\SkipListUWP.exe">
       <PackagePath>SkipListUWP.exe</PackagePath>
-      <Modified>2019-12-02T11:08:54.083</Modified>
+      <Modified>2019-12-09T12:09:08.749</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
