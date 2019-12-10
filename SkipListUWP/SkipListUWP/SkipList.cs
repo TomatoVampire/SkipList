@@ -18,7 +18,6 @@ namespace SkipListControl
 
     public class SkipList
     {
-        //int num;
         public Node Head;
         int randomSeed;
         public const int MAXLEVEL = 8;
@@ -27,7 +26,6 @@ namespace SkipListControl
             Head = new Node();
             Head.data = 0;
             Head.level = MAXLEVEL;
-            //num = 0;
             randomSeed = 0;
             Head.forward = new Node[MAXLEVEL];
             for (int i = 0; i < MAXLEVEL; i++)
@@ -49,7 +47,6 @@ namespace SkipListControl
             Node[] update = new Node[MAXLEVEL];
             int i, newlevel;
             newlevel = randL();
-            //cout << newlevel << endl;
             for (i = MAXLEVEL - 1; i >= 0; i--)
             {
                 p = Head;
@@ -101,7 +98,6 @@ namespace SkipListControl
             if (p == null) return 0;
             else
             {
-                //Node del = p.forward[0];
                 Node[] update = new Node[MAXLEVEL];
                 Node t;
                 for (int i = MAXLEVEL - 1; i >= 0; i--)
@@ -113,9 +109,8 @@ namespace SkipListControl
                     }
                     update[i] = t;
                 }
-                for (int i = 0; i < MAXLEVEL; i++)
+                for (int i = 0; i <= p.level; i++)
                 {
-                    //if (del.forward[i] == null) break;
                     update[i].forward[i] = p.forward[i];
                 }
                 Head.data--;
@@ -140,8 +135,6 @@ namespace SkipListControl
             }
             return 1;
         }
-
-
     }
 
     

@@ -30,13 +30,13 @@
     <AppXManifest Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-12-09T12:09:08.752</Modified>
+      <Modified>2019-12-10T14:31:49.141</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\SkipListUWP.exe">
       <PackagePath>entrypoint\SkipListUWP.exe</PackagePath>
-      <Modified>2019-12-09T12:09:08.423</Modified>
+      <Modified>2019-12-10T14:31:48.789</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.9\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -130,7 +130,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\Core\SkipListUWP.exe">
       <PackagePath>SkipListUWP.exe</PackagePath>
-      <Modified>2019-12-09T12:09:08.749</Modified>
+      <Modified>2019-12-10T14:31:49.137</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
