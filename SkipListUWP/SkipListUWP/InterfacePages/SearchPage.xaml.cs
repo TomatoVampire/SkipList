@@ -35,7 +35,8 @@ namespace SkipListUWP
                 int element = int.Parse(elements);
                 if (App.skiplist.search(element) != null)
                 {
-                    var MessageB = new MessageDialog("SUCCESS! Element found.");
+                    var MessageB = new MessageDialog("SUCCESS! Element " + searchBox.Text + " found." + "\n"
+                        + "Total search time : " + App.skiplist.Ss.searchtime.ToString());
                     MessageB.Commands.Add(new UICommand("OK"));
                     await MessageB.ShowAsync();
                     MainPage.mainpage.OutputText.Text = App.skiplist.display();

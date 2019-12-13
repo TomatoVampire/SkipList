@@ -67,30 +67,6 @@
     <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\SkipListUWP.xr.xml">
       <PackagePath>SkipListUWP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\App.xbf">
-      <PackagePath>App.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\InterfacePages\CreatePage.xbf">
-      <PackagePath>InterfacePages\CreatePage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\InterfacePages\DeletePage.xbf">
-      <PackagePath>InterfacePages\DeletePage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\InterfacePages\EmptyPage.xbf">
-      <PackagePath>InterfacePages\EmptyPage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\InterfacePages\InsertPage.xbf">
-      <PackagePath>InterfacePages\InsertPage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\MainPage.xbf">
-      <PackagePath>MainPage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\InterfacePages\SearchPage.xbf">
-      <PackagePath>InterfacePages\SearchPage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x86\Debug\InterfacePages\WelcomePage.xbf">
-      <PackagePath>InterfacePages\WelcomePage.xbf</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>

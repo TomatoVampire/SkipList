@@ -38,6 +38,7 @@ namespace SkipListUWP
                 {
                     App.skiplist.insert(int.Parse(split[i]));
                 }
+                App.skiplist.emptyRandomSeed();
 
                 var MessageB = new MessageDialog("Success! ");
                 MessageB.Commands.Add(new UICommand("OK"));

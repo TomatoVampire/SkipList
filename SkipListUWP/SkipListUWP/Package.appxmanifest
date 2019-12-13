@@ -9,7 +9,7 @@
   <Identity
     Name="ac05a73b-51b3-46e6-8ad3-f811ea0c2087"
     Publisher="CN=sophi"
-    Version="1.0.0.0" />
+    Version="1.0.1.0" />
 
   <mp:PhoneIdentity PhoneProductId="ac05a73b-51b3-46e6-8ad3-f811ea0c2087" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 

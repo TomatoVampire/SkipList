@@ -36,7 +36,8 @@ namespace SkipListUWP.InterfacePages
                 if(App.skiplist.delete(element)==1)
                 {
 
-                    var MessageB = new MessageDialog("Success! ");
+                    var MessageB = new MessageDialog("Success! Element "+ deleteBox.Text + " deleted."  + " \n "
+                        + "Total search time : " + App.skiplist.Ss.searchtime.ToString());
                     MessageB.Commands.Add(new UICommand("OK"));
                     await MessageB.ShowAsync();
                     MainPage.mainpage.OutputText.Text = App.skiplist.display();

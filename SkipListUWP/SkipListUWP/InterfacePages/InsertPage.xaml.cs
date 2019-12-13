@@ -36,6 +36,7 @@ namespace SkipListUWP
                 string elements = inputBox.Text;
                 int element = int.Parse(elements);
                 App.skiplist.insert(element);
+                App.skiplist.emptyRandomSeed();
                 MainPage.mainpage.OutputText.Text = App.skiplist.display();
                 
                 var MessageB = new MessageDialog("Success! ");//test

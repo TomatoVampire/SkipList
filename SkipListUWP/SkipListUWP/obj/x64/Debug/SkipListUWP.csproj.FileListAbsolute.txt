@@ -71,3 +71,5 @@ E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x64\Debug\qualifiers.txt.i
 E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
 E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x64\Debug\ProjectArchitectures.txt
 E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885022160000000.json
+E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x64\Debug\Core\ForBundle\AppxManifest.xml
+E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x64\Debug\SkipListUWP.csprojAssemblyReference.cache

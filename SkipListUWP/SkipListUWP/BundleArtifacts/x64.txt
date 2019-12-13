@@ -1,2 +1,2 @@
-MainPackage=E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x64\Debug\SkipListUWP_1.0.0.0_x64_Debug.msix
-SymbolPackage=E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x64\Debug\Symbols\SkipListUWP_1.0.0.0_x64_Debug.appxsym
+MainPackage=E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\bin\x64\Debug\SkipListUWP_1.0.1.0_x64_Debug.msix
+SymbolPackage=E:\c\SkipListUWP\SkipList\SkipListUWP\SkipListUWP\obj\x64\Debug\Symbols\SkipListUWP_1.0.1.0_x64_Debug.appxsym

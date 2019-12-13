@@ -19,7 +19,8 @@ namespace SkipListControl
     public class SkipList
     {
         public Node Head;
-        int randomSeed;
+        public int randomSeed;
+        public int searchtime;
         public const int MAXLEVEL = 8;
         public SkipList()
         {
@@ -77,11 +78,13 @@ namespace SkipListControl
 
         public Node search(int key)
         {
+            searchtime = 0;
             Node p = Head;
             for (int i = MAXLEVEL - 1; i >= 0; i--)
             {
                 while ((p.forward[i] != null) && (p.forward[i].data <= key))
                 {
+                    searchtime++;
                     if (p.forward[i].data == key) return p.forward[i];
                     p = p.forward[i];
 
@@ -167,6 +170,11 @@ namespace SkipListControl
         {
             Ss.empty();
             return 0;
+        }
+
+        public void emptyRandomSeed()
+        {
+            Ss.randomSeed = 0;
         }
 
         public string display()
